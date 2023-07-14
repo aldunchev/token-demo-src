@@ -77,7 +77,7 @@
   },
   "color-base-dark-blue": {
     "10": {
-      "value": "#cccfd1",
+      "value": "darkblue",
       "type": "color"
     },
     "20": {
