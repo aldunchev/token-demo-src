@@ -205,7 +205,7 @@
     },
     "color-base-green": {
       "10": {
-        "value": "#c3e6cb",
+        "value": "green",
         "type": "color"
       },
       "20": {
